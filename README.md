@@ -43,16 +43,6 @@ You can run the full training and inference pipeline entirely in your browser us
 4.  **Run All:** Execute the cells to fine-tune the model and launch the Gradio app.
 
 ---
-Here is a professional, copy-pasteable **`README.md`** template tailored exactly for your project.
-
-It includes the **"Open in Colab"** badge, a **Before/After** comparison, and clear instructions.
-
-### Instructions:
-1.  Create a file named `README.md` in your GitHub repository.
-2.  Copy the raw code below.
-3.  Replace the `[INSERT LINK HERE]` placeholders with your actual GitHub links.
-
----
 
 ## 🔧 Technical Details
 
